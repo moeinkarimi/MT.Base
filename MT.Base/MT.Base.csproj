@@ -6,10 +6,10 @@
     <Nullable>disable</Nullable>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <RepositoryUrl>https://github.com/moeinkarimi/MT.Base</RepositoryUrl>
-    <AssemblyVersion>1.0.2.2</AssemblyVersion>
-    <FileVersion>1.0.2.2</FileVersion>
+    <AssemblyVersion>1.2.2</AssemblyVersion>
+    <FileVersion>1.2.2</FileVersion>
     <Title>Needed Base Utilities</Title>
-    <Version>1.0.2.2</Version>
+    <Version>1.2.2</Version>
   </PropertyGroup>
 
   <ItemGroup>
